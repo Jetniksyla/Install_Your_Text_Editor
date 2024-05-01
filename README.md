@@ -78,7 +78,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contact
 
-For inquiries or collaboration opportunities, please feel free to reach out to **Jetnik Syla:**
+For inquiries or collaboration opportunities, please feel free to reach out.
 
 - **Email:** [sjetnik@gmail.com](mailto:sjetnik@gmail.com)
 - **GitHub Profile:** [Jetnik Syla](https://github.com/JetnikSyla)
@@ -86,4 +86,4 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 ## Project Screenshot
 
-![Project Screenshot](project_sc.html.png)
+![Project Screenshot](assets/project_sc.html.png)
