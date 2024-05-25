@@ -83,6 +83,9 @@ For inquiries or collaboration opportunities, please feel free to reach out.
 - **Email:** [sjetnik@gmail.com](mailto:sjetnik@gmail.com)
 - **GitHub Profile:** [Jetnik Syla](https://github.com/JetnikSyla)
 
+## Deployment
+
+This application is deployed on Heroku. You can access it [here](https://text-editor-heroku-5cfb742be3f2.herokuapp.com/).
 
 ## Project Screenshot
 
