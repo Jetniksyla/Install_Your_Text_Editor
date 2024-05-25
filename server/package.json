@@ -1,18 +1,33 @@
 {
   "name": "JATE",
+<<<<<<< HEAD
   "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
     "server": "node server.js --ignore client"
   },
+=======
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"  },
+>>>>>>> df5ff7c (added Heroku link)
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
+=======
+},
+"devDependencies": {
+    "nodemon": "^2.0.4"
+}
+>>>>>>> df5ff7c (added Heroku link)
 }
